@@ -1,2 +1,3 @@
 # Change-Files-by-User
-change file by user in Linux
+move all file by user name in Linux
+
